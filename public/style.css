@@ -1,0 +1,23 @@
+body{
+    background-image: url("./bg1.jpg");
+    background-color: #333;
+    color: #fff;
+}
+.border{
+    border-block: 10px solid brown  ;
+}
+.line{
+     position: relative;
+            border-bottom: 8px solid #222;
+            border-bottom-width: 8px;
+            border-bottom-style: solid;
+            border-bottom-color: rgb(34, 34, 34);
+            padding: 12px;
+}
+.container{
+    max-width: 720px;
+}
+.container 1{
+    max-width: 720px;
+    min-width: 480px;
+}
